@@ -31,7 +31,7 @@ public class FiboA {
     private int calc(int n) {
         //здесь простейший вариант, в котором код совпадает
         //с математическим определением чисел Фибоначчи
-        //время O(2^n)gffghfg
+        //время O(2^n)gffghfgg
         return 0;
     }
 
