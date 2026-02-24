@@ -23,6 +23,7 @@ public class FiboB {
     }
 
     BigInteger fastB(Integer n) {
+        //здесь нужно реализовать вариант с временем O(n) и памятью O(n)
         BigInteger[] fiboArr = new BigInteger[n+1];
 
         int i;
